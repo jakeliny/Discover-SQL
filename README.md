@@ -6,4 +6,4 @@ Repositorio com os banco de dados mostrados no curso SQL no [Discover](https://a
 - Banco de dados funcionario e departamento: unindo_tabelas.sqlite
 
 ---
-Discover é uma plataforma de cursos gratuita mantida com 💜 pela [Rocketseat](https://rocketseat.com.br/)
+Discover é uma plataforma de cursos gratuita mantida com 💜 pela Rocketseat, entre em nossa comunidade no [Discord](https://discord.gg/7G4mUURTVa)
