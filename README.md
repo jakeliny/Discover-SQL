@@ -4,6 +4,3 @@ Repositorio com os banco de dados mostrados nas aulas de SQL na [Rocketseat]([ht
 - Banco de dados inicial: database.sqlite
 - Banco de dados escola: escola.sqlite
 - Banco de dados funcionario e departamento: unindo_tabelas.sqlite
-
----
-Discover é uma plataforma de cursos gratuita mantida com 💜 pela Rocketseat, entre em nossa comunidade no [Discord](https://discord.gg/7G4mUURTVa)
